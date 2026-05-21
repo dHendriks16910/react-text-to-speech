@@ -1,6 +1,6 @@
 {
   "name": "react-text-to-speech",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An easy-to-use React.js library that leverages the Web Speech API to convert text to speech.",
   "main": "src/index.ts",
   "scripts": {
